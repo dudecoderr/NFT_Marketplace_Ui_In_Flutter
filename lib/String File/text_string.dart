@@ -33,4 +33,3 @@ const String Bid_Successful = "Bid Successful";
 const String BacktoHome = "Back to Home";
 const String Bid_Successful_sub_text =
     "Your bid for the Monkey Blup has been successful. Your winning bid of 1.27 ETH has been accepted by the seller.";
-// const String chat = "Chat";
