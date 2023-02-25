@@ -1,16 +1,23 @@
-# nft_marketplace_ui_in_flutter
+# NFT_Marketplace_Ui_In_Flutter
 
-A new Flutter project.
+#### Github Link : https://github.com/dudecoderr/NFT_Marketplace_Ui_In_Flutter.git
 
-## Getting Started
+                               
+# Changelog
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
+Note: _**last updated january 2023 configured project to latest flutter version 3.7.3**_
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+<p align="center">
+<img src="https://raw.githubusercontent.com/dudecoderr/NFT_Marketplace_Ui_In_Flutter/main/assets/Readme%20(2).jpg" width="200%">
+</p>
+
+**Packages used:**
+
+ - flutter_screenutil: ^5.6.0
+ - phlox_animations: ^2.1.1
+ - page_transition: ^2.0.9
+ - swipeable_button_view: ^0.0.2
+ - swipe_cards: ^1.0.0
+ - glassmorphism: ^3.0.0
