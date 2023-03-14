@@ -230,6 +230,7 @@ class _HomePageState extends State<HomePage> {
                                   height: 330.h,
                                   width: 300.w,
                                   child: SwipeCards(
+
                                     itemBuilder:
                                         (BuildContext context, int index) {
                                       return InkWell(
@@ -388,7 +389,8 @@ class _HomePageState extends State<HomePage> {
                                     onStackFinished: () {
                                       print('onStackFinished');
                                       setState(() {
-                                        _isNoItem = true;
+                                        reset();
+                                        // _isNoItem = true;
                                       });
                                     },
                                   ),

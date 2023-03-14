@@ -91,7 +91,7 @@ class _DashboardScreenState extends State<DashboardScreen> {
                         ),
                         SizedBox(height: 20.h),
                         Container(
-                          height: 110.h,
+                          height: 120.h,
                           width: MediaQuery.of(context).size.width,
                           padding: EdgeInsets.all(10),
                           decoration: BoxDecoration(

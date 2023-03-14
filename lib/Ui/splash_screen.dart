@@ -123,13 +123,13 @@ class _SplashScreenState extends State<SplashScreen> {
                                 letterSpacing: 5,
                                 fontSize: 30.sp,
                                 color: Colors.white70),
-                            buttonText: "> > > > > >",
+                            buttonText: "> > > > >",
                             buttonWidget: Text(
                               Start_Collect,
                               textAlign: TextAlign.center,
                               style: TextStyle(
                                   color: Colors.pinkAccent,
-                                  fontSize: 12.sp,
+                                  fontSize: 10.sp,
                                   fontWeight: FontWeight.w700),
                             ),
                             activeColor: Colors.pinkAccent,
